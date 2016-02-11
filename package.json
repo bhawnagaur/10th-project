@@ -1,0 +1,21 @@
+{
+  "name": "lives",
+  "version": "0.0.1",
+  "description": "this is my 10th project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:bhawnagaur/first_nodejs_project.git"
+  },
+  "author": "bhawna",
+  "license": "BSD-2-Clause",
+  "bugs": {
+    "url": "https://github.com/bhawnagaur/first_nodejs_project/issues"
+  },
+  "dependencies": {
+    "express": "~4.13.4"
+  }
+}
