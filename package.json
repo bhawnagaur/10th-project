@@ -8,12 +8,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git@github.com:bhawnagaur/first_nodejs_project.git"
+    "url": "git@github.com:bhawnagaur/10th-project.git"
   },
   "author": "bhawna",
   "license": "BSD-2-Clause",
   "bugs": {
-    "url": "https://github.com/bhawnagaur/first_nodejs_project/issues"
+    "url": "https://github.com/bhawnagaur/10th-project/issues"
   },
   "dependencies": {
     "express": "~4.13.4"
